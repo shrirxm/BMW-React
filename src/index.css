@@ -11,3 +11,30 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.fun{
+  width:50%;
+  height:150%;
+  background-color: rgb(0, 134, 0);
+  float:left;
+  display: inline;
+  padding:20px 0px;
+  margin-top: 50px;
+  color:white;
+}
+.fun h1{
+  padding-left:2px;
+ 
+  
+}
+.cls{
+  width:50%;
+  height:150%;
+  background-color: rgb(206, 220, 13);
+  float:left;
+  display: inline;
+  padding:20px 0px;
+  margin-top: 50px;
+}
+body{
+  background-color: gray;
+}
